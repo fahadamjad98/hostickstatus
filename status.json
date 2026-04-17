@@ -1,10 +1,5 @@
 {
-  "banner": {
-    "active": true,
-    "type": "info",
-    "title": "We added some new updates",
-    "message": "We’ll be performing scheduled maintenance. Some features may be temporarily unavailable."
-  }
+  "banner": null
 }
 
 
