@@ -1,8 +1,10 @@
 {
   "banner": {
     "active": true,
-    "type": "info",
-    "title": "Update",
-    "message": "We’ve made some updates to improve your experience. Check out what’s new!"
+    "type": "maintenance",
+    "title": "Scheduled Maintenance",
+    "message": "We’ll be performing scheduled maintenance. Some features may be temporarily unavailable."
   }
 }
+
+
