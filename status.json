@@ -1,3 +1,8 @@
 {
-  "banner": null
+  "banner": {
+    "active": true,
+    "type": "incident",
+    "title": "⚠️ We're experiencing issues",
+    "message": "Our team is investigating. Sorry for the inconvenience."
+  }
 }
