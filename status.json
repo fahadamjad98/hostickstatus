@@ -1,8 +1,3 @@
 {
-  "banner": {
-    "active": true,
-    "type": "maintenance",
-    "title": "Scheduled Maintenance",
-    "message": "We’ll be performing scheduled maintenance from 7:15PM to 7:30PM GST. Some features may be temporarily unavailable."
-  }
+  "banner": null
 }
