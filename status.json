@@ -1,3 +1,8 @@
 {
-  "banner": null
+  "banner": {
+    "active": true,
+    "type": "maintenance",
+    "title": "Scheduled Maintenance",
+    "message": "We’ll be performing scheduled maintenance at 6:00 PM. Some features may be temporarily unavailable."
+  }
 }
