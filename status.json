@@ -1,3 +1,8 @@
 {
-  "banner": null
+  "banner": {
+    "active": true,
+    "type": "info",
+    "title": "Update",
+    "message": "We’ve made some updates to improve your experience. If you encounter any issues, please clear your browser cache and try again."
+  }
 }
