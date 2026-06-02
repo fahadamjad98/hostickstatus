@@ -1,3 +1,8 @@
 {
-  "banner": null
+  "banner": {
+    "active": true,
+    "type": "info",
+    "title": "Update",
+    "message": "We’ve made some updates. 1. Check out Settings to customize your CRM. 2: AI Analysis for all leads. Explore your options."
+  }
 }
