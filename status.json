@@ -1,8 +1,8 @@
 {
   "banner": {
     "active": true,
-    "type": "info",
-    "title": "Update",
-    "message": "We’ve made some updates. 1. Check out Settings to customize your CRM. 2: AI Analysis for all leads. Explore your options."
+    "type": "warning",
+    "title": "Temporary Notice",
+    "message": "Some features may not work as expected. Please proceed with caution while we address this."
   }
 }
