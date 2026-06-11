@@ -1,8 +1,3 @@
 {
-  "banner": {
-    "active": true,
-    "type": "warning",
-    "title": "Temporary Notice",
-    "message": "Some features may not work as expected. Please proceed with caution while we address this."
-  }
+  "banner": null
 }
