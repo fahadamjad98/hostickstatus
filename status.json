@@ -1,3 +1,8 @@
 {
-  "banner": null
+  "banner": {
+    "active": true,
+    "type": "incident",
+    "title": "Service Disruption",
+    "message": "We are currently experiencing an issue affecting some services. Our team is actively working to resolve it."
+  }
 }
